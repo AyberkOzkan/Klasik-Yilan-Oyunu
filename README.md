@@ -76,7 +76,7 @@ for parca in yilan:
 turtle.done()
 
 ```
-![ilkgörüntü](Görseller\1.JPG)
+![first](Görseller\1.JPG)
 
 
 Şimdilik duran bir yılanımız var. Bu yılanı öncelikle hareket ettirmemiz gerekiyor. Bunu bir fonksiyon yardımıyla yapabiliriz. Yukarıda bahsettiğimiz teoriyi buraya uygulayalım.
@@ -109,7 +109,7 @@ Tabi fonksiyon yarattıysak onu programda çağırmamız gerekiyor. ```turtle.do
 hareket_yilan()  
 
 ```
-![sonsuzhareket](Görseller\2.JPG)
+![second](Görseller\2.JPG)
 
 Mor ve siyah uyumunu göz yorucu buldum. Sizde bu kısma geldiyseniz sorunsuz bir şekilde, Yılanınızı ve arkaplanınızı kişiselleştirmeyi unutmayın :)
 
